@@ -26,8 +26,7 @@ Is an abstracted graph
 
 We have attached many other dumps of our mininet working simulations to help you understand this better.
 
-Initial Master and Commit made by: Jeet Bhavesh Thakur
-Contributors: Soumil Pramod Sarvaiya, Suchit Dharampal Nandal
+Contributors: Jeet Bhavesh Thakur, Soumil Pramod Sarvaiya, Suchit Dharampal Nandal
 Academia: Rochester Institute of Technology
 Career: Masters of Computer Science
 Course: CSCI 651 Foundations of Computer Netowkrs
