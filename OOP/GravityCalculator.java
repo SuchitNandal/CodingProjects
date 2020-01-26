@@ -14,7 +14,6 @@
  * different constants : earth and mars.
  *
  * @author      Suchit Nandal sn1566@rit.edu
- * @author      Ninad Godambe ng9810@rit.edu
  */
 
 public class GravityCalculator {
